@@ -4,10 +4,8 @@
         ${onlineVisitor1Label}${onlineVisitorCnt} <br/>
         &copy; ${year}
         ${footerContent}
-        Powered by <a href="http://b3log.org" target="_blank">B3log 开源</a> •
-        <a href="http://b3log.org/services/#solo" target="_blank">Solo</a> ${version}
+        <a href="http://www.miitbeian.gov.cn/" target="_blank">冀ICP备15029473号</a>
         
-        <div class="fn-right">Theme by <a href="http://iissnan.com/" target="_blank">IIssNan</a> & <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>.</div>
     </div>
 </footer>
 <div class="back-to-top" onclick="Util.goTop()"></div>

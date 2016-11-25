@@ -426,7 +426,7 @@
 
         </plugins>
         
-        <finalName>solo</finalName>
+        <finalName>ROOT</finalName>
     </build>
 </project>
 
